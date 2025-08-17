@@ -30,8 +30,8 @@ It fetches real-time data using the **Muffin Labs History API** and presents it 
 ---
 
 ## 📷 Screenshots
-<img width="1218" height="707" alt="image" src="https://github.com/user-attachments/assets/3a569962-eed8-4c6a-9403-b0a2219baa0a" />
 <img width="1165" height="707" alt="image" src="https://github.com/user-attachments/assets/b2aaa1f7-c8f1-408e-8966-2ffa962bc18d" />
+<img width="1218" height="707" alt="image" src="https://github.com/user-attachments/assets/3a569962-eed8-4c6a-9403-b0a2219baa0a" />
 
 
 ---
